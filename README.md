@@ -1,0 +1,1 @@
+# terraform-minio-backend
